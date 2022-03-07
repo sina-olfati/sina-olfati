@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sina Olfati
+- 👀 I’m interested in coding. specially building interactive UIs
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on some big projects and companies
+- 📫 this is my linkedin account: https://www.linkedin.com/in/sina-olfati-872950233
