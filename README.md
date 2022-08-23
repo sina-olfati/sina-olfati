@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Sina Olfati
-- 👀 I’m interested in coding. specially building interactive UIs
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on some big projects and companies
-- 📫 this is my linkedin account: https://www.linkedin.com/in/sina-olfati-872950233
+- 👋 Hi, I’m Sina Olfati. a 19 years old teen
+- 👀 I’m interested in coding. specially building interactive and responsive UIs
+- 🌱 trying to be the best ReactJs developer I can.
+- 💞️ I’m looking for opportunities to catch. If you have one for me, let me know
+- 📫 this is my linkedin page: https://www.linkedin.com/in/sina-olfati-872950233
