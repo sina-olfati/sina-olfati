@@ -6,4 +6,3 @@
 - 📫 this is my linkedin page: https://www.linkedin.com/in/sina-olfati-872950233
 - 👾 And don't forget to visit my site and leave a mail via the form in the "Contact" page: https://sina-olfati.github.io/sina-olfati-site
 
-Have a nice day!
