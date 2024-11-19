@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sina Olfati. A 21 year old teen
+- 👋 Hi, I’m Sina Olfati. A 21 years old teen
 - 👀 I’m interested in coding. My religion is Front-end and my prophets are React.Js & Next.Js; a peaceful religion...
 - 🌱 Trying to be the best developer possible.
 - 💞️ I’m looking for opportunities to catch. If you have one for me, please feel free and let me know, I would be glad.
