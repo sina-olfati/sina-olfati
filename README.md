@@ -5,4 +5,3 @@
 📧 Email me at: [sinaolfati6@gmail.com](mailto:sinaolfati6@gmail.com)  
 📫 Check out my [LinkedIn Profile](https://www.linkedin.com/in/sina-olfati-872950233)  
 👾 Explore my [Personal Website](https://sina-olfati-site.vercel.app)
-
