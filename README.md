@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Sina Olfati. A 21 years old teen
-- 👀 I’m interested in coding. My religion is Front-end and my prophets are React.Js & Next.Js; a peaceful religion...
-- 🌱 Trying to be the best developer possible.
-- 💞️ I’m looking for opportunities to catch. If you have one for me, please feel free and let me know, I would be glad.
-- 📧 Feel free to email me: sinaolfati6@gmail.com
-- 📫 And take look at my LinkedIn page: https://www.linkedin.com/in/sina-olfati-872950233
-- 👾 Don't forget to visit my site and leave a mail via the form on the "Contact" page: https://sina-olfati-site.vercel.app
+👋 Hi, I’m Sina Olfati, a 22-year-old passionate Front-end Developer and an experienced English & Science Teacher!
+👨‍💻 I specialize in creating dynamic web applications with React.js & Next.js. I’m always eager to learn and grow as a developer.
+🌱 Constantly improving my skills to build intuitive, responsive, and high-quality user experiences.
+💼 Open to opportunities where I can contribute, collaborate, and grow. If you’re looking for a dedicated developer, let’s connect!
+📧 Email me at: [sinaolfati6@gmail.com](mailto:sinaolfati6@gmail.com)  
+📫 Check out my [LinkedIn Profile](https://www.linkedin.com/in/sina-olfati-872950233)  
+👾 Explore my [Personal Website](https://sina-olfati-site.vercel.app)
 
